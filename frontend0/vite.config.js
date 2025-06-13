@@ -9,6 +9,6 @@ export default defineConfig({
     tailwindcss(),
     vercel(),
   ],
-  base:"/frontend0"
+  base:"/frontend"
 
 })
